@@ -8,3 +8,4 @@ describe "#bonus" do
     expect(bonus[:capulet][:heroine][:status]).to eq("dead")
     
   end
+end
